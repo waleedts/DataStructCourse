@@ -1,5 +1,6 @@
 #include <iostream>
 #include "singleLinkedList.h"
+
 int main() {
     List n;
     n.insert(5);

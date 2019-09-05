@@ -1,16 +1,21 @@
 #ifndef _singleLinkedList_h
 #define _singleLinkedList_h
-class List{
+
+class List {
 private:
-    struct Node{
+    struct Node {
         int id;
         Node *next;
     };
-    Node *head= nullptr;
+    Node *head = nullptr;
 public:
     void insert(int);
+
     void deleteN(int);
+
     void deleteL();
+
     void display();
 };
+
 #endif
