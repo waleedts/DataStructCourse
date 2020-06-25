@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Waleed/Documents/GitHub/DataStructCourse/Homeworks/HW1/Date.cpp
+Date.h
+C:/Users/Waleed/Documents/GitHub/DataStructCourse/Homeworks/HW1/Date.h
+iomanip
+-
+
+C:/Users/Waleed/Documents/GitHub/DataStructCourse/Homeworks/HW1/Date.h
+iostream
+-
+
+C:/Users/Waleed/Documents/GitHub/DataStructCourse/Homeworks/HW1/main.cpp
+Date.h
+C:/Users/Waleed/Documents/GitHub/DataStructCourse/Homeworks/HW1/Date.h
+iostream
+-
+
